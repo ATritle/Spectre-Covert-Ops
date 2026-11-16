@@ -2,15 +2,17 @@
 
 ![Desert Glory concept art showing Spectre and Rook approaching a guarded courtyard at night](assets/desert-glory.jpg)
 
-**[Download v0.10 for Windows](https://github.com/ATritle/Spectre-Covert-Ops/releases/tag/v0.10)**
+**[Download v0.10 for Windows as one ZIP on itch.io](https://spectrecovertops.itch.io/spectre-covert-ops#download)**
 
 SPECTRE: Covert Ops is a single-player tactical shooter built in Unreal Engine. Play as Spectre alongside Rook, your AI squadmate, across four missions: Frostfire, Blizzard, Desert Glory, and Death Trap. Infiltrate guarded sites, recover evidence, sabotage a supply cache, or rescue hostages, then signal a helicopter for extraction.
 
 ## Install on Windows
 
-1. Open the [v0.10 release](https://github.com/ATritle/Spectre-Covert-Ops/releases/tag/v0.10) and download `SPECTRE-Covert-Ops-0.10-Win64-Setup.exe` plus `Setup-1.bin`, `Setup-2.bin`, and `Setup-3.bin` (each with the same `SPECTRE-Covert-Ops-0.10-Win64-` prefix).
-2. **Keep the installer and all three `.bin` files in the same folder.**
-3. Run the setup `.exe`. After installation, launch **SPECTRE - Covert Ops** from the Start menu.
+1. Download the single Windows ZIP from [itch.io](https://spectrecovertops.itch.io/spectre-covert-ops#download).
+2. Choose **Extract All**. The ZIP already bundles the installer and all three `.bin` files. Keep them together in the extracted folder.
+3. Run `SPECTRE-Covert-Ops-0.10-Win64-Setup.exe`. After installation, launch **SPECTRE - Covert Ops** from the Start menu.
+
+The [GitHub v0.10 release](https://github.com/ATritle/Spectre-Covert-Ops/releases/tag/v0.10) has the release notes and the split installer as an alternate download.
 
 ## Command your squadmate
 
